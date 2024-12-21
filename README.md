@@ -1,1 +1,3 @@
-# Job-scheduling-problem
+# Job scheduling problem
+
+[View pdf](latex/paper.pdf)
